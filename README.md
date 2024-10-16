@@ -18,7 +18,3 @@
 
 - Ability to check if ceratin processes of interest are running
 
-
-Development started on October 16, 2024
-
-Starting with a prototype using Python
